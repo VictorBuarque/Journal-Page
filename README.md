@@ -1,2 +1,3 @@
 # Journal-Page
-A newspaper page with links for a real newspaper page. Using HTML, Bootstrap, CSS and JS.
+A newspaper page based on a real newspaper page. Using HTML, Bootstrap, CSS and JS.
+The news on page have href for Jornal A Tarde Page.
